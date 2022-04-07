@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T17:47:27.979Z" agent="5.0 (Windows)" etag="gRyWnkSqkVVhEYmR-kHw" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T18:26:11.211Z" agent="5.0 (Windows)" etag="ja5syxCe9jAdaPntuQ9z" version="17.4.1" type="github">
   <diagram id="ZCgb6ObB1_aWpV4EeQwM" name="Page-1">
     <mxGraphModel dx="1049" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qWNLBckgJxY5MX7CqJOy-32" value="" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry width="1100" height="850" as="geometry" />
+          <mxGeometry x="2" width="1100" height="850" as="geometry" />
         </mxCell>
         <mxCell id="qWNLBckgJxY5MX7CqJOy-31" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="930" height="680" as="geometry" />
+          <mxGeometry x="114" y="80" width="930" height="680" as="geometry" />
         </mxCell>
         <mxCell id="qWNLBckgJxY5MX7CqJOy-9" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="1">
           <mxGeometry x="836" y="511" width="86.96" height="80" as="geometry" />
@@ -81,14 +81,17 @@
         <mxCell id="qWNLBckgJxY5MX7CqJOy-36" value="&lt;div&gt;Remote&lt;/div&gt;&lt;div&gt;Desktop&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#33FFFF;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="204" y="392" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qWNLBckgJxY5MX7CqJOy-39" value="&lt;div&gt;Kali - Linux O/S&lt;/div&gt;&lt;div&gt;192.168.1.90&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qWNLBckgJxY5MX7CqJOy-39" value="&lt;div&gt;Kali: Linux O/S&lt;/div&gt;&lt;div&gt;192.168.1.90&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="766" y="478" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qWNLBckgJxY5MX7CqJOy-40" value="&lt;div&gt;ELK Linux O/S&lt;/div&gt;&lt;div&gt;192.168.1.100&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="280" y="476" width="100" height="40" as="geometry" />
+        <mxCell id="qWNLBckgJxY5MX7CqJOy-40" value="&lt;div&gt;ELK: Linux O/S&lt;/div&gt;&lt;div&gt;192.168.1.100&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="275" y="476" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qWNLBckgJxY5MX7CqJOy-41" value="&lt;div&gt;Capstone Linux O/S&lt;/div&gt;&lt;div&gt;192.168.1.105&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qWNLBckgJxY5MX7CqJOy-41" value="&lt;div&gt;Capstone: Linux O/S&lt;/div&gt;&lt;div&gt;192.168.1.105&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="479" y="477" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qWNLBckgJxY5MX7CqJOy-42" value="&lt;div&gt;&lt;span style=&quot;&quot;&gt;22/tcp open ssh OpenSSH 7.6p1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Ubuntu Linux; Protocol 2.0&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFF99;fontFamily=Tahoma;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="508" y="596" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
