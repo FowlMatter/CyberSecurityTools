@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T14:20:37.795Z" agent="5.0 (Windows)" etag="7GJQCEAB_6BrbwJQrcbZ" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T14:23:22.150Z" agent="5.0 (Windows)" etag="jRvAJNFFujST8F2OOqNR" version="17.4.1" type="github">
   <diagram id="ZCgb6ObB1_aWpV4EeQwM" name="Page-1">
     <mxGraphModel dx="1127" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -119,8 +119,8 @@
         <mxCell id="_qA412NhqMUEU6ro4zCR-15" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;Virtual Machines&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFFFF;fontFamily=Tahoma;fontSize=14;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="259" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_qA412NhqMUEU6ro4zCR-19" value="&lt;span style=&quot;background-color: rgb(0, 0, 255); font-size: 21px;&quot;&gt;Azure Network:&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFF00;fontFamily=Tahoma;fontSize=21;opacity=0;fontColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="386" y="103" width="160" height="30" as="geometry" />
+        <mxCell id="_qA412NhqMUEU6ro4zCR-19" value="&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;Azure Network:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;eastus.cloudapp.azure.com&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#0000CC;fontFamily=Tahoma;fontSize=21;opacity=0;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="333" y="110" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
