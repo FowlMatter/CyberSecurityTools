@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T22:14:44.523Z" agent="5.0 (Windows)" etag="Z1ZGh3hca9i0J5MgjpF6" version="17.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T14:20:37.795Z" agent="5.0 (Windows)" etag="7GJQCEAB_6BrbwJQrcbZ" version="17.4.1" type="github">
   <diagram id="ZCgb6ObB1_aWpV4EeQwM" name="Page-1">
-    <mxGraphModel dx="1331" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1127" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="60" y="80" width="980" height="530" as="geometry" />
         </mxCell>
         <mxCell id="qWNLBckgJxY5MX7CqJOy-31" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="94.47999999999999" width="930" height="501.68" as="geometry" />
+          <mxGeometry x="190" y="94.48" width="825" height="501.68" as="geometry" />
         </mxCell>
         <mxCell id="_qA412NhqMUEU6ro4zCR-14" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=#00FF00;fontFamily=Tahoma;fontSize=14;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="300" y="260" width="640" height="190" as="geometry" />
@@ -89,10 +89,10 @@
           <mxGeometry x="583.48" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qWNLBckgJxY5MX7CqJOy-42" value="&lt;div&gt;&lt;span&gt;Target VM&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;22/tcp open ssh OpenSSH 7.6p1&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Ubuntu Linux; Protocol 2.0&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFF99;fontFamily=Tahoma;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="542.48" y="453" width="210" height="60" as="geometry" />
+          <mxGeometry x="566.48" y="453" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_qA412NhqMUEU6ro4zCR-1" value="&lt;div&gt;VM - IDS ELK Stack with &lt;br&gt;&lt;/div&gt;&lt;div&gt;Elasticsearch/Logstash/Kibana&lt;/div&gt;&lt;div&gt;22/tcp&lt;span style=&quot;white-space: pre&quot;&gt;     &lt;/span&gt; open &lt;span style=&quot;white-space: pre&quot;&gt;  ssh  &lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;&lt;/span&gt;OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 &lt;br&gt;&lt;/div&gt;&lt;div&gt;9200/tcp &amp;nbsp; open &lt;span style=&quot;white-space: pre&quot;&gt; http&lt;/span&gt;&amp;nbsp; Elasticsearch REST API 7.6.1&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFF99;fontSize=14;fontFamily=Tahoma;" vertex="1" parent="1">
-          <mxGeometry x="159" y="455" width="380" height="70" as="geometry" />
+          <mxGeometry x="182" y="455" width="380" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qWNLBckgJxY5MX7CqJOy-40" value="&lt;div&gt;ELK: Linux O/S&lt;/div&gt;&lt;div&gt;192.168.1.100&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FF3333;fontFamily=Tahoma;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="321.48" y="320" width="110" height="40" as="geometry" />
@@ -118,6 +118,9 @@
         </mxCell>
         <mxCell id="_qA412NhqMUEU6ro4zCR-15" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 0)&quot;&gt;Virtual Machines&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFFFF;fontFamily=Tahoma;fontSize=14;opacity=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="259" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_qA412NhqMUEU6ro4zCR-19" value="&lt;span style=&quot;background-color: rgb(0, 0, 255); font-size: 21px;&quot;&gt;Azure Network:&lt;br style=&quot;font-size: 21px;&quot;&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=#FFFF00;fontFamily=Tahoma;fontSize=21;opacity=0;fontColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="386" y="103" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
